@@ -1,2 +1,2 @@
 # qGIS-Python
-https://automating-gis-processes.github.io/CSC18/ 
+Following this course https://automating-gis-processes.github.io/CSC18/ 
